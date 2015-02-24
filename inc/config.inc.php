@@ -9,11 +9,11 @@ else :
 endif;
 
 if (MY_ENV == 'dev') :
-	define("MY_SITEURL","http://".$_SERVER['HTTP_HOST']."/helpeep/beta/");
+	define("MY_SITEURL","http://".$_SERVER['HTTP_HOST']."/helpeep/website");
 	define("JQUERY", "js/jquery.min.js");
 	define("MAILCHIMP", "css/mailchimp.css");
 else :
-	define("MY_SITEURL","http://".$_SERVER['HTTP_HOST']."/beta");
+	define("MY_SITEURL","http://".$_SERVER['HTTP_HOST']."");
 	define("JQUERY", "http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js");
 	define("MAILCHIMP", "http://cdn-images.mailchimp.com/embedcode/classic-081711.css");
 endif;
