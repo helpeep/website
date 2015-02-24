@@ -1007,3 +1007,20 @@
 	margin: 9px auto !important;
 	padding: 0 !important;
 }
+
+/* Query DB */
+
+.row.submit-push {
+	position: absolute;
+	width: 1px;
+	height: 1px;
+	left: -9999px;
+}
+.query {
+    margin: 0 auto !important;
+    width: 50%;
+}
+
+.query-field {
+	width: 50%;
+}
