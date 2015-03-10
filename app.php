@@ -27,6 +27,7 @@
 					<p>Sharing is truly caring.</a></p>
 				</header>
 				<footer>
+				
 					<form method="post" action="/">
 						<div class="row 50% query">
 							<div class="3u query-field"><input name="give" id="give" type="text" placeholder="Give" /></div>
@@ -41,6 +42,7 @@
 							</div>
 						</div>
 					</form>
+
 				</footer>
 			</section>
 

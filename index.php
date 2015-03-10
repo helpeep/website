@@ -71,5 +71,6 @@
 				</div>
 			</section>
 			<script type="text/javascript" src="js/moveText.js"></script>
+			<script type="text/javascript" src="js/slide.js"></script>
 	</body>
 </html>
