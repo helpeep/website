@@ -16,7 +16,7 @@ function changeImage () {
 }
 
 // setInterval in Milliseconds 
-var intervalHandle = setInterval(changeImage, 8000);
+var intervalHandle = setInterval(changeImage, 5000);
 
 wallImage.onclick() = function(){
 	clearInterval(intervalHandle);

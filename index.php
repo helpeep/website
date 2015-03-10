@@ -23,7 +23,7 @@
 		<!-- Header -->
 			<section id="header" class="dark">
 				<header>
-					<img src="images/logo.png" alt="Helpeep logo"/>
+					<img src="images/logo.png" alt="Helpeep logo" id="slide"/>
 					<h1 id="movingText">Helpeep</h1>
 					<p>Sharing is truly caring.</a></p>
 				</header>
