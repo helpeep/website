@@ -8,10 +8,12 @@
 		<meta name="keywords" content="" />
 		<!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
 		<script src="<?php echo JQUERY; ?>"></script>
+		<script src="js/vegas.min.js"></script>
 		<script src="js/jquery.scrolly.min.js"></script>
 		<script src="js/skel.min.js"></script>
 		<script src="js/init.js"></script>
 		<link href="<?php echo MAILCHIMP; ?>" rel="stylesheet" type="text/css">
+		<link href="css/vegas.min.css" rel="stylesheet" type="text/css">
 		<noscript>
 			<link rel="stylesheet" href="css/combined.css" />
 		</noscript>

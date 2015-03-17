@@ -691,6 +691,7 @@
 				.dark .button:hover
 				{
 					background: rgba(255,255,255,0.25);
+					background: none repeat scroll 0 0 rgba(240, 80, 84, 0.75);
 				}
 
 			.dark input[type="button"].alt,
@@ -820,18 +821,18 @@
 	#header
 	{
 		position: relative;
+		/*background: url("../images/slide1.jpg");*/
 		margin: 0;
-		/* background-image:			url('images/overlay.png'),			url('../images/header.jpg'); */
-		background-size:			auto,								cover;
-		background-position:		top left,							center center;
-		background-repeat:			repeat,								no-repeat;
-		padding: 14em 0 14em 0;
+		background-size: cover;
+		background-position: center center;
+		background-repeat: no-repeat;
+		padding: 18em 0;
 		text-align: center;
 		color: #fff;
 	}
 	
-		#header header
-		{
+		#header header {
+			margin-top: -14em;
 		}
 		
 			#header header h1
@@ -839,6 +840,7 @@
 				font-size: 2.25em;
 				line-height: 1.25em;
 				margin-bottom: 0;
+				text-shadow: 0px 0px 5px rgba(2, 2, 2, 1);
 			}
 			
 			#header header p
@@ -849,6 +851,8 @@
 				font-size: 1.25em;
 				line-height: 1.5em;
 				text-align: center;
+				text-shadow: 0 0 2px rgba(0, 0, 0, 1);
+				font-weight: 800;
 			}
 			
 		#header footer
@@ -949,6 +953,7 @@
 		text-align: center;
 		padding: 4em 0 8em 0;
 		box-shadow: inset 0 1px 0 0 #e6e6e6;
+		background: #fff;
 	}
 	
 		#footer .copyright
