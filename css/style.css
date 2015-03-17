@@ -821,20 +821,12 @@
 	#header
 	{
 		position: relative;
-<<<<<<< HEAD
 		/*background: url("../images/slide1.jpg");*/
-=======
-		background: url("../images/slide1.jpg");
->>>>>>> e923c91d0c35ac05c8f33568bc3c2b4b5b99b116
 		margin: 0;
 		background-size: cover;
 		background-position: center center;
 		background-repeat: no-repeat;
-<<<<<<< HEAD
 		padding: 18em 0;
-=======
-		padding: 14em 0 14em 0;
->>>>>>> e923c91d0c35ac05c8f33568bc3c2b4b5b99b116
 		text-align: center;
 		color: #fff;
 	}
