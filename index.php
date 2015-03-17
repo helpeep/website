@@ -42,23 +42,23 @@
 						<p>We create platform/community where people can help each other from heart in local and connect people around the world using the app. This project is to help people to help people. So It has to be operated by like-hearted people who are enthusiastic and passionate about helping people/solving problems from genuine heart (not for something else such as money). By doing this, we can make a better place around the world where people help each other from heart and reconnect each other as a human kind.</p>
 					</div>
 				</header>
-				<?php // include 'inc/first-section.inc.php'; ?>
+				<?php  include 'inc/first-section.inc.php'; ?>
 			</section>
 
-			<?php // include 'inc/second-section.inc.php'; ?>
+			<?php  //include 'inc/second-section.inc.php'; ?>
 
 			<?php // include 'inc/third-section.inc.php'; ?>
 
 			<?php // include 'inc/basic-elements.inc.php'; ?>
 			
-			<section id="fourth" class="main">
+			<!-- <section id="fourth" class="main">
 
 				<div class="content style1 dark">
 					<div class="container 75%">
-						<?php include 'inc/mailchimp.inc.php'; ?>
+						<?php // include 'inc/mailchimp.inc.php'; ?>
 					</div>
 				</div>
-			</section>
+			</section> -->
 			
 		<!-- Footer -->
 			<section id="footer">

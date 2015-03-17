@@ -20,7 +20,7 @@
 	<body>
 
 		<!-- Header -->
-			<section id="header" class="dark">
+			<section id="app-header" class="dark">
 				<header>
 					<img src="images/logo.png" alt="Helpeep logo"/>
 					<h1 id="movingText">Helpeep</h1>
@@ -30,8 +30,7 @@
 				
 					<form method="post" action="/">
 						<div class="row 50% query">
-							<div class="3u query-field"><input name="give" id="give" type="text" placeholder="Give" /></div>
-							<div class="3u query-field"><input name="receive" id="receive" type="text" placeholder="Receive" /></div>
+							<div class="12u query-field"><input name="give" id="give" type="text" placeholder="" /></div>
 						</div>
 						
 						<div class="row submit-push">

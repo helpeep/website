@@ -3,46 +3,27 @@
 						<div class="row">
 							<div class="4u">
 								<section>
-									<span class="feature-icon"><span class="icon fa-clock-o"></span></span>
+									<span class="feature-icon"><span class="icon help"></span></span>
 									<header>
-										<h3>Gravida</h3>
+										<h3>Help Without Expectation</h3>
 									</header>
-									<p>Gravida dis placerat lectus ante vel nunc euismod est turpis sodales. 
-									Diam tempor dui lacinia accumsan vivamus. Gravida dis placerat lectus 
-									ante vel nunc euismod est turpis sodales. Diam tempor dui lacinia 
-									accumsan vivamus.</p>
 								</section>
 							</div>
 							<div class="4u">
 								<section>
-									<span class="feature-icon"><span class="icon fa-bolt"></span></span>
+									<span class="feature-icon"><span class="icon community"></span></span>
 									<header>
-										<h3>Vivamus</h3>
+										<h3>Build Community</h3>
 									</header>
-									<p>Gravida dis placerat lectus ante vel nunc euismod est turpis sodales. 
-									Diam tempor dui lacinia accumsan vivamus. Gravida dis placerat lectus 
-									ante vel nunc euismod est turpis sodales. Diam tempor dui lacinia 
-									accumsan vivamus.</p>
 								</section>
 							</div>
 							<div class="4u">
 								<section>
-									<span class="feature-icon"><span class="icon fa-cloud"></span></span>
+									<span class="feature-icon"><span class="icon fa-heart"></span></span>
 									<header>
-										<h3>Accumsan</h3>
+										<h3>Spread Love</h3>
 									</header>
-									<p>Gravida dis placerat lectus ante vel nunc euismod est turpis sodales. 
-									Diam tempor dui lacinia accumsan vivamus. Gravida dis placerat lectus 
-									ante vel nunc euismod est turpis sodales. Diam tempor dui lacinia 
-									accumsan vivamus.</p>
 								</section>
-							</div>
-						</div>
-						<div class="row">
-							<div class="12u">
-								<footer>
-									<a href="#second" class="button scrolly">Gravida tempor lacinia</a>
-								</footer>
 							</div>
 						</div>
 					</div>
