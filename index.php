@@ -41,7 +41,7 @@
 						<h2>You can change the world, start with your community.</h2>
 						<p>We create platform/community where people can help each other from heart in local and connect people around the world using the app. This project is to help people to help people. So It has to be operated by like-hearted people who are enthusiastic and passionate about helping people/solving problems from genuine heart (not for something else such as money). By doing this, we can make a better place around the world where people help each other from heart and reconnect each other as a human kind.</p>
 					</div>
-				</header>
+				</header><p>This is waht we do:</p>
 				<?php  include 'inc/first-section.inc.php'; ?>
 			</section>
 
