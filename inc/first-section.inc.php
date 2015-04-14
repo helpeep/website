@@ -1,7 +1,8 @@
 				<div class="content dark style1 featured">
 					<div class="container">
 						<div class="row">
-							<div class="4u"><h1>This is what we do:</h1>
+						<header> <h1>This is what we do:</h1> </header>
+							<div class="4u">
 								<section>
 									<span class="feature-icon"><span class="icon help"></span></span>
 									<header>
