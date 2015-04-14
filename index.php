@@ -44,9 +44,9 @@
 				</header>
 				<?php  include 'inc/first-section.inc.php'; ?>
 			</section>
-			<!-- Second -->
+		<!-- Second -->
 
-			<?php  include 'inc/second-section.inc.php'; ?>
+			<?php // include 'inc/second-section.inc.php'; ?>
 
 			<?php // include 'inc/third-section.inc.php'; ?>
 
