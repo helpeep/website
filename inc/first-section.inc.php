@@ -10,7 +10,7 @@
 								</section>
 							</div>
 							<div class="4u">
-								<section>
+								<section><h1>This is what we do:</h1>
 									<span class="feature-icon"><span class="icon community"></span></span>
 									<header>
 										<h3>Build Community</h3>
