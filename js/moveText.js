@@ -13,5 +13,5 @@ function changeMsg(){
 }
 
 window.onload = function() {
-	setInterval(changeMsg, 6000); // 5 seconds 
+	setInterval(changeMsg, 7000); // 5 seconds 
 }
