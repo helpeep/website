@@ -1,4 +1,4 @@
-var arrayMsg = ["Built by people, for people.", "Genuine help, no expectations.", "Change starts with you!"];
+var arrayMsg = ["Built by people, for people.", "Genuine help, no expectations.", "Change starts with you!","Let's change the World!"];
 var indexMsg = 0;
 
 function changeMsg(){
