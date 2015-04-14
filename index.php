@@ -45,10 +45,8 @@
 				<?php  include 'inc/first-section.inc.php'; ?>
 			</section>
 			<!-- Second -->
-<section id="second" class="main">
-<?php  include 'inc/second-section.inc.php'; ?>
-</section>
-			<?php  //include 'inc/second-section.inc.php'; ?>
+
+			<?php  include 'inc/second-section.inc.php'; ?>
 
 			<?php // include 'inc/third-section.inc.php'; ?>
 
