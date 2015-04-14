@@ -1,7 +1,7 @@
 				<div class="content dark style1 featured">
 					<div class="container">
 						<div class="row">
-							<div class="4u">
+							<div class="4u"><h1>This is what we do:</h1>
 								<section>
 									<span class="feature-icon"><span class="icon help"></span></span>
 									<header>
@@ -10,7 +10,7 @@
 								</section>
 							</div>
 							<div class="4u">
-								<section><h1>This is what we do:</h1>
+								<section>
 									<span class="feature-icon"><span class="icon community"></span></span>
 									<header>
 										<h3>Build Community</h3>
