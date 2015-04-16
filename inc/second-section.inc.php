@@ -2,7 +2,7 @@
 			<section id="second" class="main">
 				<header>
 					<div class="container">
-						<iframe width="820" height="745"
+						<iframe width="100%" height="645"
 src="https://www.youtube.com/embed/fpJFStw5rjY">
 </iframe>
 					</div>
