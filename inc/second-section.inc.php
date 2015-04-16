@@ -6,7 +6,7 @@
 src="https://www.youtube.com/embed/fpJFStw5rjY">
 </iframe>
 					</div>
-				</header>
+				</header><!-- hidden for now -->
 				<div class="content dark style2">
 					<div class="container">
 						<div class="row">
@@ -42,5 +42,5 @@ src="https://www.youtube.com/embed/fpJFStw5rjY">
 							</div>
 						</div>
 					</div>
-				</div>
+				</div><!-- Hidden till here -->
 			</section>
