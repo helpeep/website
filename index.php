@@ -46,7 +46,7 @@
 			</section>
 		<!-- Second -->
 
-			<?php // include 'inc/second-section.inc.php'; ?>
+			<?php  include 'inc/second-section.inc.php'; ?>
 
 			<?php // include 'inc/third-section.inc.php'; ?>
 
