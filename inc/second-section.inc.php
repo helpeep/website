@@ -2,7 +2,7 @@
 			<section id="second" class="main">
 				<header>
 					<div class="container">
-						<iframe width="420" height="345"
+						<iframe width="820" height="745"
 src="https://www.youtube.com/embed/fpJFStw5rjY">
 </iframe>
 					</div>
@@ -42,5 +42,6 @@ src="https://www.youtube.com/embed/fpJFStw5rjY">
 							</div>
 						</div>
 					</div>
-				</div> Hidden till here -->
+				</div> 
 			</section>
+Hidden till here -->
