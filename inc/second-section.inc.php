@@ -4,8 +4,8 @@
 					<div class="container">
 						<iframe width="100%" height="645"
 src="https://www.youtube.com/embed/fpJFStw5rjY">
-</iframe><font size=86px>
-<a href= "https://cash.me/$Helpeep">cash.me/$Helpeep</a></font>					</div>
+</iframe><strong>
+<a href= "https://cash.me/$Helpeep">cash.me/$Helpeep</a></strong>			</div>
 				</header><!-- hidden for now
 				<div class="content dark style2">
 					<div class="container">
