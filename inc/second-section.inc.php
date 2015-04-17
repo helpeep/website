@@ -5,7 +5,7 @@
 						<iframe width="100%" height="645"
 src="https://www.youtube.com/embed/fpJFStw5rjY">
 </iframe><br><br>
-<font size ="86px"><a href= "https://cash.me/$Helpeep">cash.me/$Helpeep</a></font>			</div>
+<font size ="86px" color ="#22a301"><a href= "https://cash.me/$Helpeep">cash.me/$Helpeep</a></font>			</div>
 				</header><!-- hidden for now
 				<div class="content dark style2">
 					<div class="container">
