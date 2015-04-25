@@ -6,8 +6,8 @@
 src="https://www.youtube.com/embed/fpJFStw5rjY">
 </iframe><br><br>
 <form>
-<input class="MyButton" type="button" value="Donate to join" onclick="window.location.href='https://cash.me/$Helpeep'" />
-</form><font size ="86px" color ="#22a301"></font>			</div>
+<font size ="86px" color ="#22a301"><input class="MyButton" type="button" value="Donate to join" onclick="window.location.href='https://cash.me/$Helpeep'" />
+</form></font>			</div>
 				</header><!-- hidden for now
 				<div class="content dark style2">
 					<div class="container">
